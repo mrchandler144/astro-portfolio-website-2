@@ -12,8 +12,10 @@ worksImage2:
     alt: 'second image of your project.'
 platform: Web
 stack: Astro, JavaScript
-website: https://example.site/
-github: https://github.com/user/repo
+website: https://example.site/ (you are on it right now)
+github: https://github.com/MrChandler144
 ---
 
-Write more details about your project here!
+Write more details about your project here!\
+I cna write code. Look at this complex example of Python, a pretigious language known for its difficulty:\
+`print(Hello, World!)`
