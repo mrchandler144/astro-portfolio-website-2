@@ -8,10 +8,10 @@
     --text-link: #78c2ad;
     --underline: #375a7f;
     --badge: #584966;
-    --lost: #5C5B77;
+    --lost: #e2d8e8;
 
-    /*--header: 'Montserrat', cursive;*/
-    --header: 'Pacifico', cursive;
+    --header: 'Arvo', cursive;
+    /*--header: 'Pacifico', cursive;*/
     --body: 'Josefin Sans', sans-serif; 
 }
 
