@@ -12,7 +12,7 @@ worksImage2:
     alt: 'second image of your project.'
 platform: Web
 stack: Astro, JavaScript
-#website: https://example.site/ (you are on it right now)
+website: https://example.site/ (you are on it right now)
 github: https://github.com/MrChandler144
 ---
 
