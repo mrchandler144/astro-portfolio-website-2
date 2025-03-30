@@ -1,9 +1,9 @@
 ---
-title: 'Example Project'
-description: 'Enter a project description here'
+title: 'NZ Steel'
+description: 'Summer internship at the paintline'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/new_zealand_steel_logo.jpg'
+    alt: 'New Zealand Steel'
 worksImage1:
     url: '/image-1.webp'
     alt: 'first image of your project.'

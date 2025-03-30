@@ -1,9 +1,9 @@
 ---
-title: 'Example Project 2'
-description: 'Enter a project description here'
+title: 'Fisher & Paykel Healthcare'
+description: 'Summer internship with the NIV division'
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/fisher.jpg'
+    alt: 'Fisher & Paykel Healtchare'
 worksImage1:
     url: '/image-1.webp'
     alt: 'first image of your project.'
