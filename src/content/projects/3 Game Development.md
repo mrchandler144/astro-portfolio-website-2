@@ -7,8 +7,10 @@ image:
 worksImages:
   - url: '/chessgpt_scene.png'
     alt: 'Screengrab from my game ChessGPT'
+  - url: '/games.png'
+    alt: 'Composite image of my wordle and snake recreations'
   - url: '/cellular_automata.png'
-    alt: 'A program that can simulate elementary cellular automata'
+    alt: 'Composite image of my elementary cellular automata simulator and my tic tac toe recreation'
 platform: Unity, Command line
 stack: Unity C#, C
 website: mrcandela.itch.io
@@ -21,4 +23,4 @@ Some of my work is published on my itch.io page, linked below. By far the larges
 
 I have also worked on many other smaller projects, which you can find in my compilation "I Hope You Can Run C", and open-sourced in different repositories on my Github.
 
-Feel free to go to mrcandela.itch.io and have a look around!
+Feel free to go to [mrcandela.itch.io](https://mrcandela.itch.io) and have a look around!
