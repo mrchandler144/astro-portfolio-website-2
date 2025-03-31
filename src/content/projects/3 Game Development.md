@@ -23,4 +23,4 @@ Some of my work is published on my itch.io page, linked below. By far the larges
 
 I have also worked on many other smaller projects, which you can find in my compilation "I Hope You Can Run C", and open-sourced in different repositories on my Github.
 
-Feel free to go to [mrcandela.itch.io](https://mrcandela.itch.io) and have a look around!
+Feel free to go to mrcandela.itch.io and have a look around!
