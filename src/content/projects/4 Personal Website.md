@@ -13,6 +13,4 @@ It's a rite of passage for everyone with even a passing interest in technology t
 
 I was able to find a usable template online, primarily using the Astro language, a superset of HTML, in combination with CSS, typescript, and markdown interfaces. I was completely uninitiatied to all of these languages, so it was a fun challenge to first of all understand these languages, and then begin tweaking the template to meet my own needs.
 
-I also had to develop a workstyle to efficiently update the website, which was done via IDX and netlify. I had to quickly pick up how to use these tools, and I think this is something I did well.
-
-Ultimately I think this website has come out very well, and it's something I am proud of.
+I also had to develop a workstyle to efficiently update the website, which was done via IDX and netlify. I had to quickly pick up how to use these tools, which was a very fun challenge.

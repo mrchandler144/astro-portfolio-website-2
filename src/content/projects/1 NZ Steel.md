@@ -9,8 +9,6 @@ worksImages:
     alt: 'Myself by the paint heads'
   - url: '/nzs_yard.jpg'
     alt: 'The view of the paint line yard, from the meeting room'
-  - url: '/nzs_gascavator.png'
-    alt: 'The gascavator, which uses a flame thrower to cut metal'
 platform: Web
 stack: Astro, JavaScript
 website: https://example.site/ (you are on it right now)
