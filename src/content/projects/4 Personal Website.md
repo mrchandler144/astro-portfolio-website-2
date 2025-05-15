@@ -1,6 +1,6 @@
 ---
 title: 'Personal Website'
-description: 'My first experience with front-end development'
+description: 'An insightful introduction to front-end development'
 image:
     url: '/astro.png'
     alt: 'Generic website icon'
